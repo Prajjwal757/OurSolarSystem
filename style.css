@@ -1,0 +1,38 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+body
+{
+ background-image:url("wal.jpg") ;
+ backdrop-filter: blur(8px);
+}
+
+h1
+{
+ color: rgb(224, 158, 13);
+ text-align: center;
+ font-size: 80px;
+ font-weight: bold;
+}
+
+h2{color: rgb(64, 115, 224);   font-size: 35px; text-decoration: underline ; border: 5px ;}
+
+p
+{
+    color:white;  font-size:30px;
+    text-align: center; 
+    max-width: 50%;
+    margin-left: 25%;
+}
+
+img
+{
+  width: 50%;
+  height: 50%;
+  border: solid rgb(194, 169, 194); 
+}
+.all{
+    text-align: center;
+}
